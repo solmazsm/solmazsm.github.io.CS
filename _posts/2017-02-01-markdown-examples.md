@@ -1,6 +1,5 @@
 ---
 title:  "Markdown examples"
-layout: post
 ---
 
 
