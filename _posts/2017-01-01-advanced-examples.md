@@ -8,6 +8,8 @@ categories: media
 ![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
 
 
+
+
 ## MathJax
 
 You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
@@ -44,9 +46,8 @@ static void asyncEnabled(Dict* args, void* vAdmin, String* txid, struct Allocato
 
 With the `jekyll-gist` plugin, which is preinstalled on Github Pages, you can embed gists simply by using the `gist` command:
 
+<script src="https://gist.github.com/5555251.js?file=gist.md"></script>
 
-
-<script src=https://cdn.britannica.com/67/153867-050-0595AF4C/Barge-Hall-Central-Washington-University-Ellensburg.jpg></script>
 
 ## Images
 
