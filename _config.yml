@@ -1,6 +1,6 @@
 title: "Solmaz"
 author: "Solmaz"
-description: "CWU"
+description: "Central Washington University"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -20,10 +20,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
+  - {title: Mail, icon: envelope, url: "mailto:solmazCS380@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/solmazsm"}
+  
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
