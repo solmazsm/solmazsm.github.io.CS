@@ -8,7 +8,7 @@ categories: media
 ![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
 
 
-
+![Swiss Alps](https://cdn.britannica.com/67/153867-050-0595AF4C/Barge-Hall-Central-Washington-University-Ellensburg.jpg)
 
 ## MathJax
 
@@ -46,8 +46,8 @@ static void asyncEnabled(Dict* args, void* vAdmin, String* txid, struct Allocato
 
 With the `jekyll-gist` plugin, which is preinstalled on Github Pages, you can embed gists simply by using the `gist` command:
 
-<script src="https://cdn.britannica.com/67/153867-050-0595AF4C/Barge-Hall-Central-Washington-University-Ellensburg.jpg"></script>
 
+<script src="https://gist.github.com/5555251.js?file=gist.md"></script>
 
 ## Images
 
